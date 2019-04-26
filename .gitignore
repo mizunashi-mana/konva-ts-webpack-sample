@@ -1,0 +1,4 @@
+/public/
+
+# for NPM
+node_modules/
